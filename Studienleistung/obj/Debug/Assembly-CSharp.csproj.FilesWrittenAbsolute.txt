@@ -1,0 +1,17 @@
+/Users/Aldu/Desktop/Uni/Medieninformatik/MEI-M05/03_Projektseminar Mediengestaltung/Studienleistungen/I/Studienleistung/Temp/bin/Debug/UnityEngine.dll
+/Users/Aldu/Desktop/Uni/Medieninformatik/MEI-M05/03_Projektseminar Mediengestaltung/Studienleistungen/I/Studienleistung/Temp/bin/Debug/UnityEditor.dll
+/Users/Aldu/Desktop/Uni/Medieninformatik/MEI-M05/03_Projektseminar Mediengestaltung/Studienleistungen/I/Studienleistung/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Aldu/Desktop/Uni/Medieninformatik/MEI-M05/03_Projektseminar Mediengestaltung/Studienleistungen/I/Studienleistung/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Aldu/Desktop/Uni/Medieninformatik/MEI-M05/03_Projektseminar Mediengestaltung/Studienleistungen/I/Studienleistung/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Aldu/Desktop/Uni/Medieninformatik/MEI-M05/03_Projektseminar Mediengestaltung/Studienleistungen/I/Studienleistung/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Aldu/Desktop/Uni/Medieninformatik/MEI-M05/03_Projektseminar Mediengestaltung/Studienleistungen/I/Studienleistung/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Aldu/Desktop/Uni/Medieninformatik/MEI-M05/03_Projektseminar Mediengestaltung/Studienleistungen/I/Studienleistung/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Aldu/Desktop/Uni/Medieninformatik/MEI-M05/03_Projektseminar Mediengestaltung/Studienleistungen/I/Studienleistung/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Aldu/Desktop/Uni/Medieninformatik/MEI-M05/03_Projektseminar Mediengestaltung/Studienleistungen/I/Studienleistung/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Aldu/Desktop/Uni/Medieninformatik/MEI-M05/03_Projektseminar Mediengestaltung/Studienleistungen/I/Studienleistung/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Aldu/Desktop/Uni/Medieninformatik/MEI-M05/03_Projektseminar Mediengestaltung/Studienleistungen/I/Studienleistung/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Aldu/Desktop/Uni/Medieninformatik/MEI-M05/03_Projektseminar Mediengestaltung/Studienleistungen/I/Studienleistung/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/Aldu/Desktop/Uni/Medieninformatik/MEI-M05/03_Projektseminar Mediengestaltung/Studienleistungen/I/Studienleistung/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Aldu/Desktop/Uni/Medieninformatik/MEI-M05/03_Projektseminar Mediengestaltung/Studienleistungen/I/Studienleistung/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Aldu/Desktop/Uni/Medieninformatik/MEI-M05/03_Projektseminar Mediengestaltung/Studienleistungen/I/Studienleistung/obj/Debug/Assembly-CSharp.dll
+/Users/Aldu/Desktop/Uni/Medieninformatik/MEI-M05/03_Projektseminar Mediengestaltung/Studienleistungen/I/Studienleistung/obj/Debug/Assembly-CSharp.dll.mdb
